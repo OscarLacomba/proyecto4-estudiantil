@@ -4,7 +4,7 @@
 
 Utilizando Data Wrangling y Visualizacion de Datos.Se analizara el mercado de inmobiliario en la ciudad de New York, con el objectivo de evaluar para poder indentificar los precios, geografia y otras caracteristicas que influyan en el valor de las propiedades para asesorar a un posible cliente.
 
-Objetivo :
+# Objetivo :
 * Verificacion de relacion entre precios,habitaciones y medidas especificas de la propiedad.
 
 * Observar y analizar la distribucion de la oferta inmobiliaria en los distritos estudiados de la ciudad de New York.
